@@ -1,1 +1,3 @@
 # Inverso-Multiplicativo
+
+En el presente repositorio se adjunta un archivo.py el cualcontiene un programa que nos retornara el inverso multiplicativo de ciertos números, para lo cual se empleo de dos algoritmos ya conocidos, como lo son los algoritmos de euclides y extendido de euclides. El primero se usa para ver si los numeros son comprimos y tambien para sacar el mcd de ambos, posterior a esto se utliza el algoritmo extendido de euclides para retornar el valor x para así hacer x%a y obtener el inverso multiplicativo; en caso contrario que no se cumplan los requisitos retornara mensaje "Número no válido, ingrese solo números positivos" o "El número no tiene inverso" .
